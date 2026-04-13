@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @fran714
-- 👀 I’m interested in innovation
-- 🌱 I’m currently learning kotlin and ML
-- 💞️ I’m looking to collaborate on app devlopment
+
 
 
 <!---
